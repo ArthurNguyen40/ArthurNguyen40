@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Duc Anh but you can call me "Duc Anh"
-- 👀 I’m interested in Coding and App
-- 🌱 I’m currently learning Java, Cpp
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like Cpp than Java
+- ⚡ Fun fact: I like Listening music than learning
 
 <!---
 ArthurNguyen40/ArthurNguyen40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
